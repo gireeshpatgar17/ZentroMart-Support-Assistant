@@ -104,7 +104,7 @@ score_answer_comparison.py      Literal scoring without API calls
 evaluate_conversations.py       Multi-turn scenario and tool-call checks
 docs/                           Case notes, checklist, and demo recording script
 output/pdf/                     Four-page maximum measured-results report
-sample_outputs/                 Example JSON manifest and generated voice reply
+sample_outputs/                 Example JSON transcript/reply manifests
 data/raw/                       Course data on the local machine only; Git-ignored
 ```
 

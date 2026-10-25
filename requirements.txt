@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+rank-bm25>=0.2.2,<1
+python-dotenv>=1,<2
+openai>=1.40,<3
+gnani-vachana
+

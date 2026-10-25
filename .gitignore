@@ -1,0 +1,31 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Course dataset and generated local artifacts (do not publish the supplied data)
+data/source/**
+data/raw/*
+!data/raw/.gitkeep
+reports/drafts/
+answer_comparison.csv
+scored_answer_comparison.csv
+data/raw/tools/tickets_created.csv
+
+# Personal input recordings and temporary build files
+voice_inputs/
+tmp/
+*.m4a
+*.mp3
+*.flac
+*.ogg
+*.wav
+
+# Submission package and locally generated demo/mockup video
+output/*.zip
+output/demo/
+

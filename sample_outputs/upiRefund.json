@@ -1,0 +1,13 @@
+{
+  "input_audio": "upiRefund.m4a",
+  "transcript": "how long does a upi refund take after it is initiated",
+  "reply": "A UPI refund will reach you in 1 to 3 business days after it’s initiated. Business days run Monday through Saturday, excluding the listed warehouse holidays. If you need more help, I can connect you to a human colleague.",
+  "sources": [
+    "REF-2",
+    "KB-00.3",
+    "RET-7",
+    "PLS-2",
+    "REF-1"
+  ],
+  "output_audio": "upiRefund_reply.wav"
+}
