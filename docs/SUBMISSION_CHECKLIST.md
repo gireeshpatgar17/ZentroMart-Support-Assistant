@@ -2,8 +2,8 @@
 
 ## Four required deliverables
 
-- [x] **Public GitHub repository** created at `https://github.com/gireeshpatgar17/ZentroMart-Support-Assistant`. Project files are being prepared for the initial public push; verify the URL opens without sign-in after publishing.
-- [ ] **Demo video**, maximum 2 minutes. Record your own screen using `DEMO_RECORDING_SCRIPT.md`; target 1:40-1:50. Do not submit the current simulated mockup video as if it were a live screen recording.
+- [x] **Public GitHub repository** published at `https://github.com/gireeshpatgar17/ZentroMart-Support-Assistant`; verify the URL opens without signing in.
+- [ ] **Demo video**, maximum 2 minutes. Record your own screen using `DEMO_RECORDING_SCRIPT.md`; target 1:40-1:50.
 - [x] **Evaluation report PDF**, 3 pages, with actual local evaluator results and explicit metric limitations.
 - [x] **Working project**, including the folder-based Gnani STT -> agent -> Gnani TTS workflow and example JSON/WAV output. The course dataset and own input recording remain local; follow README dataset setup.
 
